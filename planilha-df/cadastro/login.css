@@ -1,0 +1,38 @@
+style{
+    background-color: linear-gradient(0deg, #1d006b 0%, #5a45c4 100%);
+}
+header{
+    font-size: 20px;
+    font-family: sans-serif;
+    display: block;
+    text-align: center;
+    
+}
+body{
+    font-size: 14px;
+    font-family: sans-serif;
+    display: block;
+    text-align: center;
+    background-color: linear-gradient(0deg, #1d006b 0%, #5a45c4 100%);;
+}
+
+input{
+    font-size: 14px;
+    font-family: sans-serif;
+    text-align: center;
+    width: 50%;
+    height: 30%;
+    margin: 10px;
+
+
+
+}
+
+.login{
+    background-color: grey;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+
+}
